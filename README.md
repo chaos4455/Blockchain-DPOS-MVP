@@ -44,8 +44,6 @@ A arquitetura do projeto foi pensada para ser **modular** e **escalável**, divi
 
 <img width="491" alt="chrome_M1dQvEZ14r" src="https://github.com/user-attachments/assets/de2ee228-6b2f-49a9-a4d2-524aa5baa406" />
 
-<img width="461" alt="chrome_0OF4kVlZ8b" src="https://github.com/user-attachments/assets/7e8b0546-7bfa-4149-8aaf-1140fc35f1ef" />
-
 <img width="455" alt="chrome_XsOACcy3JR" src="https://github.com/user-attachments/assets/a25dd5e9-41fc-413f-bf53-d02ade2bcefe" />
 
 ![screencapture-127-0-0-1-12331-2025-03-20-02_27_30](https://github.com/user-attachments/assets/0dfade79-a243-42ff-b411-a3bd1fb718af)
