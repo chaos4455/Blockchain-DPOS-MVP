@@ -91,13 +91,6 @@ O objetivo central é fornecer aos operadores de nós (e à nossa equipe de dese
 
 ---
 
-### ➡️ Próximos Passos:
-
-*   🔌 Conectar o frontend React aos dados reais providos pela API do `nodesimulatorv2` ou do `servercore`.
-*   🎨 Refinar a interface do usuário (UI/UX) e adicionar mais gráficos interativos.
-*   🧪 Implementar testes iniciais para garantir a correta exibição dos dados.
-*   📱 Garantir a responsividade básica para diferentes tamanhos de tela.
-
 ---
 
 
