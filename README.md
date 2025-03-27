@@ -30,7 +30,80 @@ Este projeto é uma evolução contínua, construída ao longo de **Janeiro, Fev
 
 A arquitetura do projeto foi pensada para ser **modular** e **escalável**, dividindo as responsabilidades entre diferentes componentes principais.
 
+---
 
+## 🚀 Dev Log: 2025-03-27 - Validator Dashboard Takes Flight! 📊✨
+
+**👨‍💻 Author:** Elias Andrade
+
+[![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow.svg?style=for-the-badge)](...)
+[![Feature: Validator Dashboard](https://img.shields.io/badge/Feature-Validator%20Dashboard-brightgreen.svg?style=for-the-badge)](...)
+[![Tech: React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Tech: Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Priority: High](https://img.shields.io/badge/Priority-High-red.svg?style=for-the-badge)](...)
+
+---
+
+### 🌟 Resumo das Atualizações:
+
+Hoje foi um dia focado em aprimorar a **visibilidade e monitoramento** dos nossos nós validadores (`nodesimulatorv2...py`) na rede **NEXT GEN BLOCKCHAIN DPOA 3KTPM**! 🎉 Introduzimos a criação de um **novo Web Dashboard** dedicado exclusivamente a eles, visando facilitar o acompanhamento em tempo real. 📡
+
+---
+
+### ✨ Apresentando o Novo Validator Web Dashboard! ✨
+
+Sabemos que monitorar a saúde e a performance dos validadores é **crucial** para a estabilidade e eficiência da nossa rede DPOA 3KTPM. 💪 Por isso, demos início ao desenvolvimento de um **dashboard web moderno e interativo** específico para essa tarefa vital!
+
+**Principais Funcionalidades (em desenvolvimento inicial 🌱):**
+
+*   📊 **Visualização de Status:** Veja rapidamente se um validador está online ✅, offline ❌ ou enfrentando problemas ⚠️.
+*   📈 **Métricas de Performance:** Acompanhe dados vitais como:
+    *   Blocos Minerados 🧱
+    *   Tempo de Atividade (Uptime) ⏱️
+    *   Hash Rate (se aplicável ao consenso futuro) ⚡
+    *   Transações por Minuto (TPM) Processadas 🔄
+    *   Última Submissão de Bloco 🗓️
+    *   Erros Recentes ❗
+*   ℹ️ **Informações Detalhadas:** Acesse detalhes específicos de cada nó, como ID do Nó, Nome, Versão, e mais.
+*   🎨 **Interface Intuitiva:** Um design limpo e fácil de usar, construído para acesso rápido às informações mais importantes.
+
+---
+
+### 🛠️ Tecnologia por Trás: React + Vite!
+
+Optamos por construir este dashboard utilizando as tecnologias de ponta do frontend:
+
+*   ⚛️ **React:** Para criar interfaces de usuário (UI) **ricas, dinâmicas e componentizadas**, garantindo uma experiência fluida.
+*   ⚡ **Vite:** Para uma experiência de desenvolvimento **extremamente rápida** (builds instantâneos e HMR - Hot Module Replacement) e um bundle final otimizado.
+
+Essa combinação nos permite iterar rapidamente e entregar um dashboard performático e moderno! 🚀
+
+---
+
+### 🎯 Objetivo Principal:
+
+O objetivo central é fornecer aos operadores de nós (e à nossa equipe de desenvolvimento!) uma **ferramenta centralizada, visual e em tempo real** ⏱️ para:
+
+1.  ✅ Monitorar a saúde e o status operacional dos validadores.
+2.  📈 Analisar a performance individual e coletiva dos nós.
+3.  🔍 Facilitar a identificação rápida de gargalos ou problemas na rede.
+4.  💡 Otimizar a configuração e o desempenho geral da blockchain DPOA.
+
+---
+
+### ➡️ Próximos Passos:
+
+*   🔌 Conectar o frontend React aos dados reais providos pela API do `nodesimulatorv2` ou do `servercore`.
+*   🎨 Refinar a interface do usuário (UI/UX) e adicionar mais gráficos interativos.
+*   🧪 Implementar testes iniciais para garantir a correta exibição dos dados.
+*   📱 Garantir a responsividade básica para diferentes tamanhos de tela.
+
+---
+
+
+<img width="1330" alt="AsPowerBar_8QZp2RIxAQ" src="https://github.com/user-attachments/assets/1e2c4169-ec06-49f8-af4e-d549ec10e4db" />
+
+Continuamos empenhados em construir a **NEXT GEN BLOCKCHAIN DPOA 3KTPM** com as melhores ferramentas e máxima transparência! 🔥 Stay tuned!
 
 ![chrome_FYodvdUv9r](https://github.com/user-attachments/assets/7881e441-2e02-4b94-80d2-f24f63cf2cb5)
 
