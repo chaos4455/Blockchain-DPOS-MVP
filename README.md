@@ -1,10 +1,12 @@
-# 🌟 Documentação do Projeto: NEXT GEN BLOCKCHAIN DPOA 3KTPM - NOVA GERACAO - IMPLEMENTACAO MODULOS ACOPLAVEIS 🌟
+# 🌟 NEXT GEN BLOCKCHAIN DPOA 3KTPM - NOVA GERACAO - IMPLEMENTACAO MODULOS ACOPLAVEIS 🌟
 
 [![Project Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg?style=for-the-badge)](https://github.com/seu-usuario/seu-repositorio)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.9+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+
+![chrome_ubxx8Q4OzB](https://github.com/user-attachments/assets/b3418bd7-86c4-4989-aef1-506565767614)
 
 ## 🚀 Visão Geral do Projeto
 
